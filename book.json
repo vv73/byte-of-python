@@ -6,7 +6,7 @@
       "label": "Download PDF",
       "multilingual": false
     }
-  }
+  },
     "variables": {
         "authorUrl": "https://www.swaroopch.com/about/",
         "buyBookUrl": "https://www.swaroopch.com/buybook/",

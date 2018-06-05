@@ -12,6 +12,6 @@
     },
     "pdf": {
         "paperSize": "a5",
-        "fontSize": 30
+        "fontSize": 16
         }
 }

@@ -1,12 +1,4 @@
 {
-  "plugins": ["downloadpdf"],
-  "pluginsConfig": {
-    "downloadpdf": {
-      "base": "https://github.com/vv73/byte-of-python/edit/master/content",
-      "label": "Download PDF",
-      "multilingual": false
-    }
-  },
     "variables": {
         "authorUrl": "https://www.swaroopch.com/about/",
         "buyBookUrl": "https://www.swaroopch.com/buybook/",

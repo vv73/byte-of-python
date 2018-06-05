@@ -9,6 +9,7 @@
         "pythonVersion": "3.6.0",
         "sourceUrl": "https://github.com/swaroopch/byte-of-python",
         "vimBookUrl": "https://vim.swaroopch.com/",
-        "pdf.paperSize": "a5"
+        "pdf.paperSize": "a5",
+        "pdf.fontSize": 36
     }
 }

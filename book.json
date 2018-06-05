@@ -10,6 +10,6 @@
         "vimBookUrl": "https://vim.swaroopch.com/"
     },
     "pdf": {
-        "paperSize": "a5",
+        "paperSize": "a5"
         }
 }

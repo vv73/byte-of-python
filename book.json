@@ -1,4 +1,12 @@
 {
+  "plugins": ["downloadpdf"],
+  "pluginsConfig": {
+    "downloadpdf": {
+      "base": "https://github.com/zhaoda/webpack-handbook/edit/master/content",
+      "label": "Download PDF",
+      "multilingual": false
+    }
+  }
     "variables": {
         "authorUrl": "https://www.swaroopch.com/about/",
         "buyBookUrl": "https://www.swaroopch.com/buybook/",

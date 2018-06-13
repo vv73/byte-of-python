@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'LetovoFont'; /*a name to be used later*/
-    src: url('https://github.com/vv73/byte-of-python/blob/master/styles/daxpro.otf?raw=true') format("opentype"); /*URL to font*/
+    src: url('daxpro.otf') format("opentype"); /*URL to font*/
 }
 
 *{

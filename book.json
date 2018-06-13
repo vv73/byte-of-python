@@ -12,7 +12,7 @@
     "pdf": {
         "paperSize": "a5",
         "fontFamily":"Cambria",
-        "fontSize":10,
+        "fontSize":10, 
         "margin": {
              "top":35,
              "bottom":35,

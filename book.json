@@ -13,6 +13,8 @@
         "paperSize": "a5",
         "margin": {
              "top":35,
+             "fontFamily":"Cambria",
+             "fontSize":10,
              "bottom":35,
              "left":35,
              "right":35

@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'LetovoFont'; /*a name to be used later*/
-    src: url('daxpro.otf') format("opentype"); /*URL to font*/
+    src: url('styles/daxpro.otf') format("opentype"); /*URL to font*/
 }
 
 *{

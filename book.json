@@ -14,8 +14,8 @@
         "fontFamily":"Cambria",
         "fontSize":10, 
         "margin": {
-             "top":50,
-             "bottom":50,
+             "top":60,
+             "bottom":60,
              "left":35,
              "right":35
          }

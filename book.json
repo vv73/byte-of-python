@@ -14,10 +14,10 @@
         "fontFamily":"Cambria",
         "fontSize":10, 
         "margin": {
-             "top":"2cm",
-             "bottom":"2cm",
-             "left":"2cm",
-             "right":"2cm"
+             "top":"20",
+             "bottom":"20",
+             "left":"20",
+             "right":"20"
          }
     }
 }

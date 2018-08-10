@@ -15,7 +15,7 @@
         "fontSize":10, 
         "margin": {
              "top":60,
-             "bottom":60,
+             "bottom":40,
              "left":35,
              "right":35
          }

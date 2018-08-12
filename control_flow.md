@@ -48,7 +48,7 @@ Even though this is a very simple program, I have been pointing out a lot of thi
 > 
 > There is no `switch` statement in Python. You can use an `if..elif..else` statement to do the same thing (and in some cases, use a [dictionary](./data_structures.md#dictionary) to do it quickly)
 
-## The while Statement
+## The `while` Statement
 
 The `while` statement allows you to repeatedly execute a block of statements as long as a condition is true. A `while` statement is an example of what is called a *looping* statement. A `while` statement can have an optional `else` clause.
 
@@ -106,7 +106,7 @@ Remember that the `for..in` loop works for any sequence. Here, we have a list of
 > 
 > In C/C++, if you want to write `for (int i = 0; i < 5; i++)`, then in Python you write just `for i in range(0,5)`. As you can see, the `for` loop is simpler, more expressive and less error prone in Python.
 
-## The break Statement {#break-statement}
+## The `break` Statement {#break-statement}
 
 The `break` statement is used to *break* out of a loop statement i.e. stop the execution of a looping statement, even if the loop condition has not become `False` or the sequence of items has not been completely iterated over.
 
